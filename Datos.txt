@@ -1,0 +1,15 @@
+Nombre del trabajo: La Feria
+
+Descripcion: Será una app que servirá tanto para compradores como para diseñadores independientes,
+donde se pueda ubicar de forma sencilla y directa los puntos donde se lleven a cabo ferias de diseño, 
+showrooms o ferias americanas, buscando fomentar el crecimiento de emprendedores desarrollando así
+las economias barriales.
+
+Integrantes
+Erica G
+Julieta Caceres
+Mariana Ruiz Moreno
+
+Conocimientos previos
+
+-Mariana Ruiz M. Conocimiento básico de HTML
